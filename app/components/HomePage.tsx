@@ -133,7 +133,6 @@ export function HomePage() {
               <span className="text-sm font-normal lg:text-base">
                 Pay for your groceries and expenses swiftly
               </span>
-              <span className="font-normal text-sm">Pay for your groceries and expenses swiftly</span>
             </p>
             <p className="flex flex-col gap-4 rounded-[20px] bg-white p-4 dark:bg-[#FFFFFF0D]">
               <span>
@@ -147,7 +146,6 @@ export function HomePage() {
               <span className="text-sm font-normal lg:text-base">
                 Spend USDC/USDT comfortably with no exchange{" "}
               </span>
-              <span className="font-normal text-sm">Spend USDC/USDT comfortably with no exchange </span>
             </p>
           </div>
           <div className="flex flex-col gap-6 rounded-[24px] bg-[#F7F7F8] px-4 py-8 dark:bg-[#202020]">
@@ -178,7 +176,6 @@ export function HomePage() {
               <span className="text-sm font-normal lg:text-base">
                 Escape P2P and liquidate your cash in no time
               </span>
-              <span className="font-normal text-sm">Escape P2P and liquidate your cash in no time</span>
             </p>
             <p className="flex flex-col gap-4 rounded-[20px] bg-white p-4 dark:bg-[#FFFFFF0D]">
               <span>
@@ -192,7 +189,6 @@ export function HomePage() {
               <span className="text-sm font-normal lg:text-base">
                 No issues of losses or security concerns like DEXes{" "}
               </span>
-              <span className="font-normal text-sm">No issues of losses or security concerns like DEXes </span>
             </p>
           </div>
         </div>
