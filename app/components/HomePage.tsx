@@ -15,6 +15,8 @@ const crimsonPro = Crimson_Pro({
 });
 
 export function HomePage() {
+  
+
   return (
     <motion.div
       initial={{ opacity: 0, filter: "blur(16px)" }}
