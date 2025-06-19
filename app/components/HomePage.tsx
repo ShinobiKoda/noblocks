@@ -312,7 +312,6 @@ export function HomePage() {
           </button>
         </div>
       </motion.section>
-
       <motion.section
         className="flex w-full flex-col justify-center px-5 md:flex-row-reverse lg:items-center"
         initial={{ opacity: 0, y: 40 }}
